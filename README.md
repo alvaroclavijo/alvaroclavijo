@@ -2,10 +2,10 @@
 
 ## About me
 - 🇧🇴 I am from Bolivia 
-- I'm learning about HTML, CSS, JAVASCRIPT
-- I'm looking to collaborate with other content creators
-- I'm searching for a job oportunity
-- About some hobbies: I love to play the guitar
+- 🤓 I'm learning about HTML, CSS, JAVASCRIPT
+- 🧑‍💻 I'm looking to collaborate with other content creators
+- 🧗‍♂️ I'm searching for a job oportunity
+- About some hobbies: I love to play the guitar 🎸 😎
 
 ### If you want to know more about me you can take look to the following pages
 
@@ -18,17 +18,17 @@
 
 <br />
 
+### Also you can take a look of some projects I have already done
+<a src:"https://alvaroclavijo.github.io/countdown-web/">Countdown-web<a/>
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<br />
 
-### Latest GitHub activity  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 [facebook]: https://www.facebook.com/coki.clavijo
 [instagram]: https://www.instagram.com/cokicla/
