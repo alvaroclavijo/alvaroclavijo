@@ -1,7 +1,7 @@
-### Hi there, I'm Alvaro Clavijo 👋
+# Hi there, I'm Alvaro Clavijo 👋
 
-## I'm  a young junior software developer
-
+## About me
+- 🇧🇴 I am from Bolivia 
 - I'm learning about HTML, CSS, JAVASCRIPT
 - I'm looking to collaborate with other content creators
 - I'm searching for a job oportunity
