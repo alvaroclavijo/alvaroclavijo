@@ -19,7 +19,7 @@
 <br />
 
 ### Also you can take a look of some projects I have already done
-<a src:"https://alvaroclavijo.github.io/countdown-web/">Countdown-web<a/>
+[Countdownweb](https://alvaroclavijo.github.io/countdown-web)
 
 ### Languages and Tools:
 
