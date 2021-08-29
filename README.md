@@ -1,6 +1,5 @@
 # Hi there, I'm Alvaro Clavijo 👋
 
-## About me
 - 🇧🇴 I am from Bolivia 
 - 🤓 I'm learning about HTML, CSS, JAVASCRIPT
 - 🧑‍💻 I'm looking to collaborate with other content creators
