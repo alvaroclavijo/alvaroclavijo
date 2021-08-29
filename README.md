@@ -19,9 +19,12 @@
 <br />
 
 ### Also you can take a look of some projects I have already done
-[Countdownweb](https://alvaroclavijo.github.io/countdown-web)
-[Interactive-Pricing](https://alvaroclavijo.github.io/interactive-pricing/)
-[Rock-Paper-Scissors](https://alvaroclavijo.github.io/rock-paper-scissors/)
+1.-[Countdownweb](https://alvaroclavijo.github.io/countdown-web)
+<br/>
+2.-[Interactive-Pricing](https://alvaroclavijo.github.io/interactive-pricing/)
+<br/>
+3.-[Rock-Paper-Scissors](https://alvaroclavijo.github.io/rock-paper-scissors/)
+<br/>
 
 ### Languages and Tools:
 
