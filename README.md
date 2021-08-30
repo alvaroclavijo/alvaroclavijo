@@ -1,7 +1,7 @@
 # Hi there, I'm Alvaro Clavijo 👋
 
 - 🇧🇴 I am from Bolivia 
-- 🤓 I'm learning about HTML, CSS, JAVASCRIPT
+- 🤓 I'm learning HTML, CSS, JAVASCRIPT
 - 🧑‍💻 I'm looking to collaborate with other content creators
 - 🧗‍♂️ I'm searching for a job oportunity
 - About some hobbies: I love to play the guitar 🎸 😎
