@@ -1,8 +1,8 @@
 # Hi there, I'm Alvaro Clavijo 👋
 
 - 🇧🇴 I am from Bolivia 
-- 🤓 I'm coder pasionate.
-- 💻 I use React, HTML, CSS, NODEJS, EXPRESS 
+- 🤓 I'm a passionate web developer.
+- 💻 I use REACT, HTML, CSS, NODEJS, EXPRESS 
 - 🧑‍💻 I'm looking to collaborate with other content creators
 - About some hobbies: I love to play the guitar 🎸 😎
 
