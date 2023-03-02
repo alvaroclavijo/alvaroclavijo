@@ -2,7 +2,7 @@
 
 - 🇧🇴 I am from Bolivia 
 - 🤓 I'm a passionate web developer.
-- 💻 I use REACT, HTML, CSS, NODEJS, EXPRESS 
+- 💻 REACT, REDUX, ANGULAR, TYPESCRIPT, HTML, SASS, NODEJS, EXPRESS, MYSQL, MONGO 
 - 🧑‍💻 I'm looking to collaborate with other content creators
 - About some hobbies: I love to play the guitar 🎸 😎
 
@@ -18,13 +18,19 @@
 <br />
 
 ### Also you can take a look of some projects I have already done
-1.-[Countdownweb](https://alvaroclavijo.github.io/countdown-web)
+1.- [Realstate](https://c-napoles.web.app/)
 <br/>
-2.-[Interactive-Pricing](https://alvaroclavijo.github.io/interactive-pricing/)
+2.-[Art Ecommerce](https://ecommerce-artwork.web.app/)
 <br/>
-3.-[Rock-Paper-Scissors](https://alvaroclavijo.github.io/rock-paper-scissors/)
+3.- [Insurance Form](https://afiliacioncns.com/)
 <br/>
-4.- [Construction Company Web](https://constructora-napoles.web.app/)
+4.-[Countdownweb](https://alvaroclavijo.github.io/countdown-web)
+<br/>
+5.-[Interactive-Pricing](https://alvaroclavijo.github.io/interactive-pricing/)
+<br/>
+6.-[Rock-Paper-Scissors](https://alvaroclavijo.github.io/rock-paper-scissors/)
+<br/>
+7.- [Construction Company Web](https://constructora-napoles.web.app/)
 
 ### Languages and Tools:
 
