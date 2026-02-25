@@ -1,48 +1,64 @@
-# Hi there, I'm Alvaro Clavijo 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvaroclavijo/alvaroclavijo/main/banner.jpeg" width="100%" />
+</p>
+<h1 align="center">Hi 👋, I'm Alvaro Clavijo</h1>
+<h3 align="center">Full-Stack Developer | Scalable Systems & Cloud Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Cloud+Engineer;Building+Scalable+Systems;6%2B+Years+Experience&center=true&width=500&height=50">
+</p>
 
-- 🇧🇴 I am from Bolivia 
-- 🤓 I'm a passionate web developer.
-- 💻 REACT, REDUX, ANGULAR, TYPESCRIPT, HTML, SASS, NODEJS, EXPRESS, MYSQL, MONGO 
-- 🧑‍💻 I'm looking to collaborate with other content creators
-- About some hobbies: I love to play the guitar 🎸 😎
+<p align="center">
+I build high-performance web applications and distributed systems that scale.
+</p>
 
-### If you want to know more about me you can take look to the following pages
+<p align="center">
+🌐 Portfolio: <a href="https://alvaroclavijodev.web.app" target="_blank">https://alvaroclavijodev.web.app</a>
+</p>
 
+---
 
-[<img align="left" alt="alvaroClavijo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🚀 About Me
 
-[<img align="left" alt="alvaroClavijo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+Full-stack developer with 6+ years of experience designing and delivering scalable web, mobile, and backend applications across multiple industries.
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I specialize in TypeScript, React, Node.js, Spring Boot, and AWS, with strong experience in microservices, cloud infrastructure, and real-time systems.
 
-<br />
-
-### Also you can take a look of some projects I have already done
-1.- [Realstate](https://c-napoles.web.app/)
-<br/>
-2.-[Art Ecommerce](https://ecommerce-artwork.web.app/)
-<br/>
-3.- [Insurance Form](https://afiliacioncns.com/)
-<br/>
-4.-[Countdownweb](https://alvaroclavijo.github.io/countdown-web)
-<br/>
-5.-[Interactive-Pricing](https://alvaroclavijo.github.io/interactive-pricing/)
-<br/>
-6.-[Rock-Paper-Scissors](https://alvaroclavijo.github.io/rock-paper-scissors/)
-<br/>
-7.- [Construction Company Web](https://constructora-napoles.web.app/)
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+Remote-first mindset 🌎 | Based in Bolivia
 
 
+## 💻 Tech Stack
 
+### Frontend
+TypeScript • React • Next.js • Angular • TailwindCSS • React Native
 
-[facebook]: https://www.facebook.com/coki.clavijo
-[instagram]: https://www.instagram.com/cokicla/
-[linkedin]: https://www.linkedin.com/in/alvaro-clavijo-baldivieso-2a6281118/
+### Backend
+Node.js • NestJS • Express • Spring Boot
 
+### Databases
+MongoDB • MySQL • Redis • ElasticSearch
 
+### Cloud & DevOps
+AWS (EC2, S3, Cognito, Lambda, CloudFormation, Systems Manager, Elastic Beanstalk)  
+GCP • Docker • CI/CD Pipelines
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=alvaroclavijo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroclavijo&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroclavijo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🌎 Connect With Me
+
+📫 Email: clavibaldi@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/alvaroclavijob  
+💻 GitHub: https://github.com/alvaroclavijo  
+
+---
+
+⭐ Open to global remote opportunities in Full-Stack, Backend, and Cloud-focused roles.
